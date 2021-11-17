@@ -1,0 +1,15 @@
+artifact_uri: file:///home/antoine/code/TheJarrz/TaxiFareModel/mlruns/1/5c083cc54b574eceb9ae1a0e8df5ccc7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 5c083cc54b574eceb9ae1a0e8df5ccc7
+run_uuid: 5c083cc54b574eceb9ae1a0e8df5ccc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637072295133
+status: 1
+tags: []
+user_id: unknown

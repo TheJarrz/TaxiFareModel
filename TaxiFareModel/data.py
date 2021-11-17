@@ -3,7 +3,7 @@ import pandas as pd
 AWS_BUCKET_PATH = "s3://wagon-public-datasets/taxi-fare-train.csv"
 # LOCAL_BUCKET_PATH = "raw_data/train_10k.csv"
 
-def get_data(nrows=10_000):
+def get_data(nrows=10_000,**kwargs):
     '''returns a DataFrame with nrows from s3 bucket'''
     # if nrows <= 10000:
     #     df = pd.read_csv(LOCAL_BUCKET_PATH, nrows=nrows)
